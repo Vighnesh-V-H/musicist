@@ -1,7 +1,7 @@
 import { useMusic } from "../Context/MusicProvider";
 // import Music from "./Music";
 import Spinner from "./Spinner";
-import styles from "./MusicList.module.css";
+import styles from "./musicList.module.css";
 import Musics from "./Musics";
 
 function MusicList() {

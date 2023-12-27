@@ -1,0 +1,12 @@
+.sidebar {
+  background-color: rgba(22, 21, 21, 0.46);
+}
+.sidebar:hover {
+  background-color: rgba(22, 21, 21, 0.692);
+}
+.sidebar h2 {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  cursor: pointer;
+}

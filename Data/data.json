@@ -1,0 +1,42 @@
+{
+  "musics": [
+    {
+      "title": "Happier",
+      "artist": "Marshmello ft. Bastille",
+      "genre": "Pop",
+      "year": 2018,
+      "listens": 1800000000,
+      "imageUrl": "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "audio": "https://paglasongs.com/files/download/type/320/id/16458",
+      "id": 984
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "year": 2017,
+      "listens": 2600000000,
+      "imageUrl": "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "audio": "https://paglasongs.com/files/download/type/192/id/3214",
+      "id": 983
+    },
+    {
+      "title": "StarBoy",
+      "audio": "https://pagallworld.co.in/wp-content/uploads/2023/08/Starboy-Slowed-Reverb.mp3",
+      "imageUrl": "https://i1.sndcdn.com/artworks-rbpt7l979jKu3zoV-7EyzZQ-t500x500.jpg",
+      "id": 1003
+    },
+    {
+      "title": "Unforgetttable",
+      "audio": "https://files.gospeljingle.com/uploads/music/2023/08/French-Montana-feat-Swae-Lee-Unforgettable-(Gospeljingle.com).mp3",
+      "imageUrl": "https://c.saavncdn.com/129/Jungle-Rules-English-2017-500x500.jpg",
+      "id": 1004
+    },
+    {
+      "title": "Despacito",
+      "audio": "https://pagalworld.com.pe/files/download/id/2858",
+      "imageUrl": "https://pagalworld.com.pe/siteuploads/thumb/sft6/2858_4.jpg",
+      "id": 1005
+    }
+  ]
+}

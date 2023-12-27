@@ -1,0 +1,56 @@
+/* .musiclist::-webkit-scrollbar-thumb {
+  border-radius: 100vw;
+  background-color: #333;
+}
+.musiclist {
+  scroll-behavior: smooth;
+} */
+
+/* Define the scrollbar styles */
+::-webkit-scrollbar {
+  width: 1rem; /* Width of the scrollbar */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 6px; /* Round corners of the scrollbar handle */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /* background: #f1f1f1; */
+  /*Color of the scrollbar track */
+  border-radius: 6px;
+}
+
+/* Add a subtle transition effect for smooth scrolling */
+.musiclist {
+  scroll-behavior: smooth;
+}
+
+/* Optional: Apply a dark theme to the page */
+.musiclist {
+  margin-top: 4rem;
+  background-color: #121212;
+  color: #fff;
+  width: 84vw;
+  width: fit-content;
+
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  /* width: 48vh; */
+}
+
+.musiclist:hover ::-webkit-scrollbar-thumb {
+  background-color: #888;
+  display: unset;
+}
+.musiclist:hover {
+  background-color: rgba(20, 20, 20, 0.811);
+}

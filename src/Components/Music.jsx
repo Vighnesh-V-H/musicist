@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import { useMusic } from "../Context/MusicProvider";
 import { useEffect, useRef, useState } from "react";
-import styles from "./Music.module.css";
+import styles from "./music.module.css";
 import Spinner from "./Spinner";
 import { FaRegHeart } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";

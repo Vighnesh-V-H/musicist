@@ -5,7 +5,9 @@ const server = jsonServer.create();
 const router = jsonServer.router("./data.json");
 const middlewares = jsonServer.defaults();
 
-server.use(middlewares);
+console.log("Before router.use");
 server.use(router);
 
+// Insert console log for debugging
+console.log("Before module.exports");
 module.exports = server;

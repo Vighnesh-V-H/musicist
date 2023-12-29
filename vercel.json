@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/json-server.js": {
-      "runtime": "node18.16.1"
+      "runtime": "node@18.16.1"
     }
   }
 }

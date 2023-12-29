@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 
 const MusicContext = createContext();
 
-const BASE_URL = "http://localhost:9000/musics";
+const BASE_URL = "https://vighnesh-v-h.github.io/musicist-api/data.json";
 
 function MusicProvider({ children }) {
   const [musics, setMusics] = useState([]);
